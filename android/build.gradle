@@ -21,7 +21,6 @@ def safeExtGet(prop, fallback) {
 }
 
 android {
-    namespace 'com.horcrux.svg'
     compileSdkVersion safeExtGet('compileSdkVersion', 28)
 
     defaultConfig {

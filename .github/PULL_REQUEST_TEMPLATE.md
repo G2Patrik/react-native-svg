@@ -21,10 +21,8 @@ Demonstrate the code is solid. Example: The exact commands you ran and their out
 
 | OS      | Implemented |
 | ------- | :---------: |
-| iOS     |    ✅❌      |
-| MacOS   |    ✅❌      |
-| Android |    ✅❌      |
-| Web     |    ✅❌      |
+| iOS     |    ✅❌     |
+| Android |    ✅❌     |
 
 ## Checklist
 
